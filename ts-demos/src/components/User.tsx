@@ -1,4 +1,4 @@
-import type { FC } from "react"; // FC is an older way - User: FC<UserInfo>
+// import type { FC } from "react"; // FC is an older way - User: FC<UserInfo>
 
 // type UserInfo = {
 //   // this is new way

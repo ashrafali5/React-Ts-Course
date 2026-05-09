@@ -1,9 +1,37 @@
 // import User from "./components/User";
+// import Button from "./components/Button";
+
+// import Admin from "./components/Admin";
+// import UserInfo from "./components/UserInfo";
 
 const App = () => {
   return (
     <div>
       {/* <User name="Ashraf Ali" age={21} isStudent={false} /> */}
+
+      {/* <Button
+        label="Click on me"
+        onClick={() => console.log("Clicked")}
+        isDisabled={true}
+      /> */}
+      {/* <h1>User Information ⬇</h1>
+      <hr />
+      <UserInfo
+        username="Alex"
+        email="alex@gmail.com"
+        age={20}
+        location={["Earth", "USA"]}
+      />
+      <h1>Admin Information ⬇</h1>
+      <hr />
+      <Admin
+        username="Alex"
+        email="alex@gmail.com"
+        age={20}
+        location={["Mars", "Unknown"]}
+        admin="yes"
+      /> */}
+      
     </div>
   );
 };
