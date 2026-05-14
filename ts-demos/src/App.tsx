@@ -2,7 +2,14 @@
 // import Button from "./components/Button";
 // import Counter from "./components/Counter";
 
-import FocusInput from "./components/FocusInput";
+// import ReducerCounter from "./components/ReducerCounter";
+
+// import ContextCounter from "./components/ContextCounter";
+
+// import EventHandling from "./components/EventHandling";
+
+// import ContactForm from "./components/ContactForm";
+// import FocusInput from "./components/FocusInput";
 
 // import Form from "./components/Form";
 // import Todo from "./components/Todo";
@@ -43,7 +50,11 @@ const App = () => {
       {/* <UserProfile/> */}
       {/* <Todo /> */}
       {/* <Form /> */}
-      <FocusInput />
+      {/* <FocusInput /> */}
+      {/* <ContactForm /> */}
+      {/* <EventHandling /> */}
+      {/* <ContextCounter /> */}
+      {/* <ReducerCounter /> */}
     </div>
   );
 };
