@@ -1,5 +1,12 @@
 // import User from "./components/User";
 // import Button from "./components/Button";
+// import Counter from "./components/Counter";
+
+import FocusInput from "./components/FocusInput";
+
+// import Form from "./components/Form";
+// import Todo from "./components/Todo";
+// import UserProfile from "./components/UserProfile";
 
 // import Admin from "./components/Admin";
 // import UserInfo from "./components/UserInfo";
@@ -31,7 +38,12 @@ const App = () => {
         location={["Mars", "Unknown"]}
         admin="yes"
       /> */}
-      
+
+      {/* <Counter /> */}
+      {/* <UserProfile/> */}
+      {/* <Todo /> */}
+      {/* <Form /> */}
+      <FocusInput />
     </div>
   );
 };
