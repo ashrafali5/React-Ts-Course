@@ -2,6 +2,9 @@
 // import Button from "./components/Button";
 // import Counter from "./components/Counter";
 
+// import MyUseEffectFetch from "./components/MyUseEffectFetch";
+// import PracticeCounterReducer from "./components/PracticeCounterReducer";
+
 // import ReducerCounter from "./components/ReducerCounter";
 
 // import ContextCounter from "./components/ContextCounter";
@@ -55,6 +58,8 @@ const App = () => {
       {/* <EventHandling /> */}
       {/* <ContextCounter /> */}
       {/* <ReducerCounter /> */}
+      {/* <PracticeCounterReducer /> */}
+      {/* <MyUseEffectFetch /> */}
     </div>
   );
 };
