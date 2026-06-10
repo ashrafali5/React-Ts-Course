@@ -1,7 +1,17 @@
+import Navigation from "./Components/Navigation";
+import PeopleToFollow from "./Components/PeopleToFollow";
+
 const App = () => {
   return (
     <div>
-      <h1>App</h1>
+      <Navigation />
+
+      <div className="flex justify-center">
+        {/* Main area */}
+        <div className="w-1/3">
+          <PeopleToFollow />
+        </div>
+      </div>
     </div>
   );
 };
